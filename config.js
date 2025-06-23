@@ -16,7 +16,7 @@ module.exports = {
         ? process.env.PREFIX.split(',').map(p => p.trim())
         : [''],
 
-    NUMBER: process.env.YOUR_NUMBER || '254742063632',
+    NUMBER: process.env.YOUR_NUMBER || '254797633626',
     MODE: (process.env.MODE || 'private').toLowerCase().trim(),
     WARN_LIMIT: process.env.WARNINGS || '3',
     ON: process.env.YOUR_NAME || 'FLASH-MD',
